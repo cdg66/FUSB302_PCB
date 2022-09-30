@@ -1706,7 +1706,7 @@
     (property "Reference" "C4" (id 0) (at 93.091 87.0493 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100n" (id 1) (at 93.091 89.5862 0)
+    (property "Value" "470p" (id 1) (at 93.091 89.5862 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 91.1352 91.694 0)
@@ -2252,7 +2252,7 @@
     (property "Reference" "C6" (id 0) (at 108.585 87.0493 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100n" (id 1) (at 108.585 89.5862 0)
+    (property "Value" "470p" (id 1) (at 108.585 89.5862 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (id 2) (at 106.6292 91.694 0)
@@ -2513,10 +2513,10 @@
       (reference "C2") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/3c861525-bffa-4f66-a992-362db2d7daca"
-      (reference "C4") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C4") (unit 1) (value "470p") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/daa2f944-b48f-4e1d-a28d-4efcadad7bdd"
-      (reference "C6") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C6") (unit 1) (value "470p") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/284abe0f-35f5-43e9-ba6c-4aa6f2e56eae"
       (reference "C7") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric")
